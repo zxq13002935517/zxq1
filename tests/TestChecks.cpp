@@ -18,6 +18,11 @@ namespace {
 
    TEST(CheckEqualsWithStringsFailsOnDifferentStrings)
    {
+	   
+	   
+	   
+	   
+	   
       char txt1[] = "Hello";
       char txt2[] = "Hallo";
       TestResults results;
