@@ -36,6 +36,13 @@ namespace {
       catch(AssertException const&)
       {
          caught = true;
+		 
+		 
+		 
+		 
+		 
+		 
+		 
       }
 
       CHECK(true == caught);
